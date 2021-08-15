@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adhvikgamingZ
+- 👀 I’m interested in coding and minecraft
+- 🌱 I’m currently learning react-naive
+- 💞️ I’m looking to collaborate on minecraft mods/youtube
+- 📫 How to reach me you can send me an email on chat2manika@gmail.com
